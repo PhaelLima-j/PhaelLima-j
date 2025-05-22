@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### Olá! Eu sou o Raphael Lima 🐦‍⬛
 Bem-vindo ao meu perfil!
 
@@ -14,7 +13,8 @@ Se você busca alguém comprometido, curioso e com sede de aprender, estou à di
 
 #EngenhariaDeDados #Python #SQL #NodeJS #PowerBI #EstudanteADS #Dados #BackEnd #Oportunidades
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="raphael-lima-b7403322a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/raphael-lima-b7403322a?trk=profile-badge">Raphael Lima</a></div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/raphael-lima-b7403322a)
+
               
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=PhaelLima-j&show_icons=true&theme=merko)
 
