@@ -1,12 +1,17 @@
 ### Olá! Eu sou o Raphael Lima 🐦‍⬛
 Bem-vindo ao meu perfil!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas pela UniFecaf, na modalidade EAD. Atualmente, atuo como estagiário na Optimize Consultoria, onde estou aprimorando minhas habilidades técnicas. Tenho uma boa base em bancos de dados como MySQL, PostgreSQL e MongoDB. Além disso estou direcionando meus estudos para o back-end utilizando NodeJS, aqui no meu perfil já tenho algumas criações utilizando essa linguagem. Possuo fortes experiências em HTML, CSS e JS para manipulação de DOM. Sou apaixonado pela área de dados, então também tenho um leve conhecimento em python e Power BI para visualização de dados, no meu linkedin tenho alguns gráficos que foram desenvolvidos por mim mesmo.
+Sou estudante de Análise e Desenvolvimento de Sistemas pela UniFecaf (modalidade EAD) e atualmente estagiário na Optimize Consultoria, onde venho evoluindo minhas habilidades técnicas na prática.
 
+Nos últimos meses, tenho direcionado meus estudos e projetos para a Engenharia de Dados, explorando conceitos como ingestão, transformação e tratamento de dados. Tenho uma base sólida em bancos de dados como MySQL, PostgreSQL e MongoDB, além de conhecimento em Python, linguagem que venho utilizando em projetos voltados para manipulação de dados e automações simples.
 
-Estou sempre em busca de novos desafios e oportunidades no setor de desenvolvimento. Se você procura alguém dedicado e apaixonado pelo que faz, ficarei feliz em colaborar e compartilhar experiências. 
+No meu dia a dia, também desenvolvo com Python e um pouco de NodeJS no back-end, e aqui no perfil você já encontra algumas aplicações criadas por mim. Possuo ainda experiência com HTML, CSS e JavaScript e tenho noções em Power BI para visualização de dados — inclusive com alguns gráficos postados no LinkedIn.
 
-#BackEnd #SQL #PowerBI #EstudanteADS #Oportunidades #Python
+Sou apaixonado por dados e estou constantemente buscando desafios que me permitam aplicar e expandir meus conhecimentos, especialmente na jornada para me tornar um engenheiro de dados completo.
+
+Se você busca alguém comprometido, curioso e com sede de aprender, estou à disposição para trocarmos ideias e colaborarmos!
+
+#EngenhariaDeDados #Python #SQL #NodeJS #PowerBI #EstudanteADS #Dados #BackEnd #Oportunidades
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/raphael-lima-b7403322a)
 
