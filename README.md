@@ -13,7 +13,7 @@ Se você busca alguém comprometido, curioso e com sede de aprender, estou à di
 
 #EngenhariaDeDados #Python #SQL #NodeJS #PowerBI #EstudanteADS #Dados #BackEnd #Oportunidades
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-delima/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-delima/)
 
               
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=PhaelLima-j&show_icons=true&theme=merko)
