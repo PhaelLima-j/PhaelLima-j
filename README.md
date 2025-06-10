@@ -3,9 +3,10 @@ Bem-vindo ao meu perfil!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pela UniFecaf (modalidade EAD) e atualmente estagiário na Optimize Consultoria, onde venho evoluindo minhas habilidades técnicas na prática.
 
-Nos últimos meses, tenho direcionado meus estudos e projetos para a Engenharia de Dados, explorando conceitos como ingestão, transformação e tratamento de dados. Tenho uma base sólida em bancos de dados como MySQL, PostgreSQL e MongoDB, além de conhecimento em Python, linguagem que venho utilizando em projetos voltados para manipulação de dados e automações simples.
+Nos últimos meses, tenho direcionado meus estudos e projetos para a Engenharia de Dados, explorando conceitos como ingestão, transformação e tratamento de dados e utilizando ferramentas como AirFlow, PySpark e Hive. Tenho uma base sólida em bancos de dados como MySQL, PostgreSQL e MongoDB, além de conhecimento em Python, linguagem que venho utilizando em projetos voltados para manipulação de dados e automações simples.
+No meu dia a dia, sempre estou usando Windows, mas depois que descobri o WSL, comecei a utilizá-lo para desenvolver todos os meus projetos.
 
-No meu dia a dia, também desenvolvo com Python e um pouco de NodeJS no back-end, e aqui no perfil você já encontra algumas aplicações criadas por mim. Possuo ainda experiência com HTML, CSS e JavaScript e tenho noções em Power BI para visualização de dados — inclusive com alguns gráficos postados no LinkedIn.
+Em meu atual estágio, também desenvolvo com Python e um pouco de NodeJS no back-end, e aqui no perfil você já encontra algumas aplicações criadas por mim. Possuo ainda experiência com HTML, CSS e JavaScript e tenho noções em Power BI para visualização de dados — inclusive com alguns gráficos postados no LinkedIn.
 
 Sou apaixonado por dados e estou constantemente buscando desafios que me permitam aplicar e expandir meus conhecimentos, especialmente na jornada para me tornar um engenheiro de dados completo.
 
