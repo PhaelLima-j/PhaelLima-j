@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Raphael Lima 🐦‍⬛
 Bem-vindo ao meu perfil!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas pela UniFecaf (modalidade EAD) e atualmente estagiário na Optimize Consultoria, onde venho evoluindo minhas habilidades técnicas na prática.
+Olá, seja bem-vindo(a) ao meu perfil!
+
+Meu nome é Raphael e sou Formado em Análise e Desenvolvimento de Sistemas na UniFecaf. Atualmente, atuo como Product Specialist na CloudSek, onde venho desenvolvendo habilidades técnicas importantes para minha carreira.
 
 Nos últimos meses, tenho direcionado meus estudos e projetos para a Engenharia de Dados, explorando conceitos como ingestão, transformação e tratamento de dados e utilizando ferramentas como AirFlow, PySpark e Hive. Tenho uma base sólida em bancos de dados como MySQL, PostgreSQL e MongoDB, além de conhecimento em Python, linguagem que venho utilizando em projetos voltados para manipulação de dados e automações simples.
 No meu dia a dia, sempre estou usando Windows, mas depois que descobri o WSL, comecei a utilizá-lo para desenvolver todos os meus projetos.
