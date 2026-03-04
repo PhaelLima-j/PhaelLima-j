@@ -1,20 +1,22 @@
-### Olá! Eu sou o Raphael Lima 🐦‍⬛
-Bem-vindo ao meu perfil!
+###Hello! I'm Raphael Lima 🐦‍⬛
 
-Olá, seja bem-vindo(a) ao meu perfil!
+Welcome to my profile!
 
-Meu nome é Raphael e sou Formado em Análise e Desenvolvimento de Sistemas na UniFecaf. Atualmente, atuo como Product Specialist na CloudSek, onde venho desenvolvendo habilidades técnicas importantes para minha carreira.
+Hi, welcome to my profile!
 
-Nos últimos meses, tenho direcionado meus estudos e projetos para a Engenharia de Dados, explorando conceitos como ingestão, transformação e tratamento de dados e utilizando ferramentas como AirFlow, PySpark e Hive. Tenho uma base sólida em bancos de dados como MySQL, PostgreSQL e MongoDB, além de conhecimento em Python, linguagem que venho utilizando em projetos voltados para manipulação de dados e automações simples.
-No meu dia a dia, sempre estou usando Windows, mas depois que descobri o WSL, comecei a utilizá-lo para desenvolver todos os meus projetos.
+My name is Raphael, and I hold a degree in Systems Analysis and Development from UniFecaf. Currently, I work as a Product Specialist at CloudSEK, where I have been developing important technical skills for my career.
 
-Em meu atual estágio, também desenvolvo com Python e um pouco de NodeJS no back-end, e aqui no perfil você já encontra algumas aplicações criadas por mim. Possuo ainda experiência com HTML, CSS e JavaScript e tenho noções em Power BI para visualização de dados — inclusive com alguns gráficos postados no LinkedIn.
+Over the past few months, I have been focusing my studies and projects on Data Engineering and Python Development, exploring concepts such as data ingestion, transformation, and processing. I have been working with tools like Airflow, PySpark, and Hive. I also have a solid foundation in databases such as MySQL, PostgreSQL, and MongoDB, along with strong knowledge of Python, which I use in projects related to data manipulation and simple automations.
 
-Sou apaixonado por dados e estou constantemente buscando desafios que me permitam aplicar e expandir meus conhecimentos, especialmente na jornada para me tornar um engenheiro de dados completo.
+In my daily routine, I primarily use Windows, but after discovering WSL, I started using it to develop all my projects.
 
-Se você busca alguém comprometido, curioso e com sede de aprender, estou à disposição para trocarmos ideias e colaborarmos!
+In my current role, I also develop using Python and a bit of Node.js on the back-end, and here on my profile you can already find some applications I have built. I also have experience with HTML, CSS, and JavaScript, as well as basic knowledge of Power BI for data visualization — including some charts I have shared on LinkedIn.
 
-#EngenhariaDeDados #Python #SQL #NodeJS #PowerBI #EstudanteADS #Dados #BackEnd #Oportunidades
+I am passionate about data and constantly looking for challenges that allow me to apply and expand my knowledge, especially on my journey to becoming a complete Data Engineer.
+
+If you are looking for someone committed, curious, and eager to learn, I would be happy to connect and collaborate!
+
+#DataEngineering #Python #SQL #NodeJS #PowerBI #ADSStudent #Data #BackEnd #Opportunities
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-delima/)
 
