@@ -1,22 +1,21 @@
-###Hello! I'm Raphael Lima 🐦‍⬛
+### Olá! Eu sou Raphael Lima 🐦‍⬛
 
-Welcome to my profile!
+Seja bem-vindo ao meu perfil!
 
-Hi, welcome to my profile!
+Sou formado em Análise e Desenvolvimento de Sistemas pela UniFecaf e atualmente atuo como Freelancer, desenvolvendo soluções e adquirindo experiência prática com tecnologia e desenvolvimento de software.
 
-My name is Raphael, and I hold a degree in Systems Analysis and Development from UniFecaf. Currently, I work as a Product Specialist at CloudSEK, where I have been developing important technical skills for my career.
+Tenho conhecimento em Django, FastAPI, Docker, MySQL, PostgreSQL, MongoDB, Python, Spark, Airflow, Azure e Power BI, com foco principal no desenvolvimento backend e na construção de APIs e sistemas eficientes para processamento e manipulação de dados.
 
-Over the past few months, I have been focusing my studies and projects on Data Engineering and Python Development, exploring concepts such as data ingestion, transformation, and processing. I have been working with tools like Airflow, PySpark, and Hive. I also have a solid foundation in databases such as MySQL, PostgreSQL, and MongoDB, along with strong knowledge of Python, which I use in projects related to data manipulation and simple automations.
+No meu dia a dia, também tenho experiência com desenvolvimento backend utilizando Python e Node.js, além de conhecimentos em HTML, CSS e JavaScript para integrações e aplicações completas. Utilizo Windows e MacOS como ambiente principal e WSL para desenvolvimento, o que me permite trabalhar com mais flexibilidade e proximidade de ambientes Linux.
 
-In my daily routine, I primarily use Windows, but after discovering WSL, I started using it to develop all my projects.
+Recentemente, venho aprofundando meus estudos em arquitetura backend, criação de APIs REST, integração entre sistemas e boas práticas de desenvolvimento, aplicando esses conceitos em projetos pessoais disponíveis aqui no meu perfil.
 
-In my current role, I also develop using Python and a bit of Node.js on the back-end, and here on my profile you can already find some applications I have built. I also have experience with HTML, CSS, and JavaScript, as well as basic knowledge of Power BI for data visualization — including some charts I have shared on LinkedIn.
+Busco constantemente evoluir como desenvolvedor backend, contribuindo com soluções escaláveis, bem estruturadas e de qualidade.
 
-I am passionate about data and constantly looking for challenges that allow me to apply and expand my knowledge, especially on my journey to becoming a complete Data Engineer.
+Se você procura alguém comprometido, curioso e com vontade de aprender, será um prazer me conectar e colaborar!
 
-If you are looking for someone committed, curious, and eager to learn, I would be happy to connect and collaborate!
+#Backend #Python #APIs #Django #FastAPI #SQL #Docker #Azure #Oportunidades
 
-#DataEngineering #Python #SQL #NodeJS #PowerBI #ADSStudent #Data #BackEnd #Opportunities
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-delima/)
 
