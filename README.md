@@ -1,6 +1,6 @@
 # Raphael Lima
 
-Trabalho com dados há 3 anos — pipelines, integrações e indicadores — e estou migrando de análise para **engenharia de dados**, com foco em Databricks, PySpark e arquitetura Lakehouse.
+Venho trabalhando com python há alguns anos, no momento estou focando na área de Engenheiro/Analista de dados.
 
 **O que já coloquei em produção**
 
@@ -27,12 +27,12 @@ Trabalho com dados há 3 anos — pipelines, integrações e indicadores — e e
 
 | | |
 |---|---|
-| **Dados** | Databricks, PySpark, Spark SQL, Delta Lake, Apache Airflow, arquitetura medalhão, modelagem dimensional |
+| **Dados** | Databricks, PySpark, Spark SQL, Pandas, Delta Lake, Apache Airflow, arquitetura medalhão, modelagem dimensional |
 | **Linguagens** | Python, SQL |
 | **Backend** | FastAPI, Django, Node.js |
 | **Bancos** | PostgreSQL, MySQL, SQL Server, Azure SQL Database, MongoDB |
 | **Infra** | Docker, deploy em VPS Linux, Azure, AWS, Git |
-| **BI** | Power BI, Excel avançado (VBA) |
+| **BI** | Power BI, Excel |
 
 ---
 
