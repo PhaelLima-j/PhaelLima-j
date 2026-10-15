@@ -38,7 +38,7 @@ Venho trabalhando com python há alguns anos, no momento estou focando na área 
 
 ## Formação
 
-**Análise e Desenvolvimento de Sistemas** — UniFecaf · conclusão prevista em Dez/2026
+**Análise e Desenvolvimento de Sistemas** — UniFecaf · concluido em 2026
 **Técnico em Análise e Desenvolvimento de Sistemas** — Senac · 2021–2022
 
 ---
